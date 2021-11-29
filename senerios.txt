@@ -1,0 +1,5 @@
+Scenario to validate Current Account Creation for Individual (Type Code 10)
+Scenario to validate Current Account Authorization for Individual (Type Code 10)
+System should allow the user to authorize Current Account (301101) for an Individual Customer (Type Code 
+successfully.
+System should allow the user to create 317213 Fixed Deposits ,for Indiv-Bankmuscat Shria board memb family Customer with Type Code 50 and currency as OMR successfully
